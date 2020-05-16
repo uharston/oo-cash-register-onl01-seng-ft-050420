@@ -1,5 +1,5 @@
 
-class Cash
+class CashRegister
 
   attr_accessor :total
 
