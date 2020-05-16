@@ -1,7 +1,7 @@
 
 class Cash
 
-  attr_accessor
+  attr_accessor total 
 
   def initialize
     @total = 0
